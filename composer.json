@@ -9,6 +9,7 @@
         "goalgorilla/open_social": "~10.3.4",
         "php": "^7.2",
         "monolog/monolog": "^1.17"
+        "drush/drush": "7.*"
     },
     "repositories": [
         {
